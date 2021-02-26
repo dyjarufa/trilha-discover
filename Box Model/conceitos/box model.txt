@@ -1,0 +1,15 @@
+- Fundamental para fazer layouts para web
+- Maior facilidade para aplicar o CSS
+
+- Caixa Retangular
+- Possui propriedade de um caixa 2D
+
+  - Tamanho (Largura x altura)  width | height
+  - Conteúdo                    content
+  - Bordas                      border
+  - preenchimento interno       padding
+  - espaços fora da caixa       margin
+
+  * cada elemento da página será considerado uma caixa!
+
+  

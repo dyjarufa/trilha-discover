@@ -1,0 +1,5 @@
+article h3:nth-child(1) { /* filho referente ao article */
+  font-size: 18px;
+  font-weight: bold;
+  color: red;
+}

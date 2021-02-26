@@ -1,0 +1,6 @@
+# Margin são espaços entre elementos
+
+- margin-top | margin-right | margin-left | margin-bottom
+- values: `<length>` | `<percentage>` | auto
+
+* cuidado com margin collapsing (top se junta com ao bottom)

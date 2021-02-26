@@ -1,0 +1,9 @@
+# border (e outline)
+ - As bordas das caixas
+
+ - values `<border-style>` | `<border-width>` | `<border-color>`
+    - style: solid | dotted | dashed | double | groove | ridge | inset | outset
+    - width: `<length>`
+    - color: `<color>`
+
+

@@ -1,0 +1,8 @@
+ul li:nth-child(odd){
+  color: black;
+  background: #eee;
+}
+
+ul li:nth-child(even){
+  color: grey;
+}

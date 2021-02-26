@@ -1,0 +1,21 @@
+* { margin: 0;} /* elimina as margens do navegador */
+
+div, section{
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+
+  margin: 0 16px;
+  display: inline;
+}
+
+
+/* marging collpase ele não considera(soma) o distanciamento das margens por ser display block */
+/* No caso do display inline, ele soma o distanciamento */
+div{
+  margin-bottom: 8px;
+}
+
+section {
+  margin-top: 8px;
+}

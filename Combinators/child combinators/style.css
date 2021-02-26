@@ -1,0 +1,11 @@
+
+/* pego somente o primeiro li */
+/* body > ul > li{
+  color: blue;
+} */
+
+
+/* pego o segundo li */
+ul > ul > li {
+  color: red;
+}

@@ -1,0 +1,6 @@
+# Padding - Preenchimento interno da caixa
+
+- padding-top | padding-right | padding-left | padding-bottom
+- values: `<length>` | `<percentage>`
+
+* padding poderá causar diferença na largura de um elemento

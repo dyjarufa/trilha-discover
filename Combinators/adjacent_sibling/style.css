@@ -1,0 +1,15 @@
+/* pego o proxímo elemento irmão do lado direito */
+p + p {
+  color: brown;
+}
+
+/* comumente usada para para pegar o próximo o botão e aplicar uma margem */
+button + button {
+  margin-left: 32px;
+}
+
+/* selecionar TODOS os elementos irmãos que estiverem ao lado do h1 */
+
+h1 ~ p { 
+  color: blue;
+}

@@ -1,0 +1,4 @@
+article p:nth-of-type(3) {
+  font-size: 18px;
+  font-weight: bold;
+}

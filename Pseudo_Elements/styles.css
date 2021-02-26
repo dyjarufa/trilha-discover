@@ -1,0 +1,32 @@
+/* li::before {
+  content: ">";
+  content: "";  content é obrigatório mesmo que seja vazio
+
+} */
+
+li{
+  position: relative;
+}
+
+li::after{
+  content: "";
+  width: 10px;
+  height: 1px;
+  background-color: blue;
+  bottom: 0px;
+  position: absolute;
+}
+
+/* p::first-line {
+   font-weight: bold;
+} */
+
+
+/* Agrupando pseudo classes com pseudo elements */
+/* p:nth-of-type(2)::first-line{
+  font-weight: bold;
+} */
+
+article p:nth-child(3)::first-line{
+  font-weight: bold;
+}

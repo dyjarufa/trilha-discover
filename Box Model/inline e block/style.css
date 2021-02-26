@@ -1,0 +1,13 @@
+div{
+  height: 100px;
+  border: 1px solid red;
+  width: 10px;
+  /*display: inline;  muda o comportamento para ficar inline */
+}
+
+span{
+  height: 100px;
+  height: 100px;
+  border: 1px solid green;
+ /*display: block;  muda o comportamento para ficar block */
+}
